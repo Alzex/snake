@@ -1,1 +1,1 @@
-Snake game made in Godot by tutorial
+# Snake game made in Godot
