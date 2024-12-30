@@ -15,8 +15,9 @@ There are two ways to run the game:
 
 ### Compile and run in Godot
 1. Download Godot 4.2.3
-2. Open the project in Godot
-3. Run the project
+2. Clone repo to your local directory
+3. Open the project in Godot
+4. Run the project
 
 ## Screenshots
 ![Screenshot 1](https://i.imgur.com/beTu6Rq.png)
